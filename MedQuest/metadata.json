@@ -1,6 +1,0 @@
-{
-  "name": "MEDQUEST - Clinical Reasoning Platform",
-  "description": "An interactive clinical reasoning & medical education platform for medical students and healthcare learners.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
